@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Entrega3_PMD</string>
+
+    <string name="day1">Dia 1</string>
+    <string name="day2">Dia 2</string>
+    <string name="day3">Dia 3</string>
+    <string name="day4">Dia 4</string>
+    <string name="day5">Dia 5</string>
+    <string name="day6">Dia 6</string>
+    <string name="day7">Dia 7</string>
+    <string name="day8">Dia 8</string>
+    <string name="day9">Dia 9</string>
+    <string name="day10">Dia 10</string>
+    <string name="day11">Dia 11</string>
+    <string name="day12">Dia 12</string>
+    <string name="day13">Dia 13</string>
+    <string name="day14">Dia 14</string>
+    <string name="day15">Dia 15</string>
+
+
+
+
+
+
+    <string name="comic1">One Piece</string>
+    <string name="description1">Eichiro Oda</string>
+    <string name="comic2">Batman:TLH</string>
+    <string name="description2">Jeph Loeb y Tim Sale</string>
+    <string name="comic3">Monster</string>
+    <string name="description3">Naoki Urasawa</string>
+    <string name="comic4">Maus</string>
+    <string name="description4">Art Spiegelman</string>
+    <string name="comic5">Watchmen</string>
+    <string name="description5">Alan Moore</string>
+    <string name="comic6">Tintin: El loto Azul</string>
+    <string name="description6">Hergé</string>
+    <string name="comic7">Dragon Ball</string>
+    <string name="description7">Akira Toriyama</string>
+    <string name="comic8">All-star Superman</string>
+    <string name="description8">Grant Morrison</string>
+    <string name="comic9">Saga</string>
+    <string name="description9">Brian K. Vaughan</string>
+    <string name="comic10">Sandman</string>
+    <string name="description10">Nail Gaiman</string>
+    <string name="comic11">The Amazing Spiderman</string>
+    <string name="description11">Stan Lee y Steve Ditko</string>
+    <string name="comic12">Berserk</string>
+    <string name="description12">Kentaro Miura</string>
+    <string name="comic13">Akira</string>
+    <string name="description13">Katsuhiro Ōtomo</string>
+    <string name="comic14">Hunter X Hunter</string>
+    <string name="description14">Yoshihiro Togashi</string>
+    <string name="comic15">Invencible</string>
+    <string name="description15">Robert Kirkman</string>
+
+
+</resources>
