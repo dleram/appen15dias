@@ -75,7 +75,7 @@ fun ComicsList(
         modifier = modifier
     ) {
 
-        LazyVerticalGrid(columns = GridCells.Fixed(2), // 3 items per row
+        LazyVerticalGrid(columns = GridCells.Fixed(2), 
             contentPadding = contentPadding,
             modifier = modifier) {
             itemsIndexed(comics) { index, comic ->
@@ -91,7 +91,7 @@ fun ComicsList(
                                         stiffness = StiffnessVeryLow,
                                         dampingRatio = DampingRatioLowBouncy
                                     ),
-                                    initialOffsetY = { it * (index + 1) } // staggered entrance
+                                    initialOffsetY = { it * (index + 1) } 
                                 )
                             )
                     )
