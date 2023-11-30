@@ -81,16 +81,16 @@ fun TopAppBar(modifier: Modifier = Modifier, title: String, icon: Int, onIconCli
                     painter = painterResource(icon),
                     contentDescription = null,
                     modifier = Modifier
-                        .size(48.dp) // Tamaño deseado para la imagen
-                        .padding(end = 16.dp), // Espacio entre la imagen y el texto
+                        .size(48.dp) 
+                        .padding(end = 16.dp), 
                     alignment = Alignment.TopStart,
-                    contentScale = ContentScale.Crop // Escala de contenido para la imagen
+                    contentScale = ContentScale.Crop 
                 )
 
                 Text(
                     text = title,
                     style = MaterialTheme.typography.displaySmall,
-                    modifier = Modifier.weight(1f) // El texto ocupa todo el espacio restante
+                    modifier = Modifier.weight(1f)
                 )
             }
         }
